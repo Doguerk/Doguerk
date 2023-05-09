@@ -6,6 +6,8 @@ Full Stack Developer | JavaScript | Python | React | Node.js
 
 
 I'm a full stack developer with experience in JavaScript, Python, React, and Node.js. I'm passionate about developing user-friendly, efficient, and scalable web applications.
+
+
 🛠️ Technologies & Tools
 
     Frontend: React, javascript
