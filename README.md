@@ -10,7 +10,7 @@ I'm a full stack developer with experience in JavaScript, Python, React.js, and 
 
 🛠️ Technologies & Tools
 
-    Frontend: React, javascript
+    Frontend: React, javascript,html, css
     Backend: Nodejs, Python
     Database: MongoDB, PostgreSQL
     Version Control: Git
