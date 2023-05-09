@@ -22,7 +22,8 @@ I'm a full stack developer with experience in JavaScript, Python, React, and Nod
 
 📫 How to reach me
 
-    [LinkedIn](https://www.linkedin.com/in/doğu-erk-kılınçtepe/)
+    [LinkedIn](https://www.linkedin.com/in/do%C4%9Fu-erk-k%C4%B1l%C4%B1n%C3%A7tepe-57a540192/)
+
     Email: doguerk.kilinctepe@gmail.com
 
 ⭐️ From Visit https://github.com -Doguerk
