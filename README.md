@@ -14,14 +14,13 @@ I'm a full stack developer with experience in JavaScript, Python, React.js, and 
     Backend: Nodejs, Python
     Database: MongoDB, PostgreSQL
     Version Control: Git
-    Deployment & Hosting: AWS CLI 
+    Deployment & Hosting: AWS CLI, Heroku
 
 🌱 I'm currently learning
 
     Advanced concepts in React Hooks
     GraphQL
     Docker & Kubernetes
-    Heroku
 
 📫 How to reach me
 
