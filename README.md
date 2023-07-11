@@ -5,7 +5,7 @@
 Full Stack Developer | JavaScript | Python | React | Node.js
 
 
-I'm a full stack developer with experience in JavaScript, Python, React.js, and Node.js. I'm passionate about developing user-friendly, efficient, and scalable web applications.
+I'm a full stack developer with now have a strong interest in cyber security.
 
 
 🛠️ Technologies & Tools
@@ -17,6 +17,8 @@ I'm a full stack developer with experience in JavaScript, Python, React.js, and 
     Deployment & Hosting: AWS CLI, Heroku
 
 🌱 I'm currently learning
+    
+    cyber security tools 
 
     Advanced concepts in React Hooks
     GraphQL
