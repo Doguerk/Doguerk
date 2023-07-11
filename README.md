@@ -20,9 +20,6 @@ I'm a full stack developer with now have a strong interest in cyber security.
     
     cyber security tools 
 
-    Advanced concepts in React Hooks
-    GraphQL
-    Docker & Kubernetes
 
 📫 How to reach me
 
