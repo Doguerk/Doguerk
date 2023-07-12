@@ -2,19 +2,19 @@
 
 ![Dogu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doguerk&theme=dark&show_icons=true)
 
-Full Stack Developer | JavaScript | Python | React | Node.js
+| python | C | C++(basic) | javascript | shell |
 
 
-I'm a full stack developer with now have a strong interest in cyber security.
+
+ developer with a strong interest in cyber security.
 
 
 🛠️ Technologies & Tools
 
-    Frontend: React, javascript,html, css
-    Backend: Nodejs, Python
-    Database: MongoDB, PostgreSQL
-    Version Control: Git
-    Deployment & Hosting: AWS CLI, Heroku
+    Scripting |python | C | C++(basic) | javascript | shell
+	Frameworks | mongodb | mysql (entry level) | Oracle(entry level)
+    Source code management tools | Github | Git | gitlab (entry level)
+
 
 🌱 I'm currently learning
     
